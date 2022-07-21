@@ -1,0 +1,7 @@
+# Pre-requisites
+Install python 3.8+ on setup -  windows specifically
+Install pip 
+pip install pdf2docx
+pip install os
+pip install sys
+pip install win32com.client
